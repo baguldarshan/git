@@ -1,14 +1,17 @@
-body {
-  background-color: #000000;
-
-}
 h1 {
-  color: rgb(26, 138, 26);
+  color: black;
 }
+
 p {
-  color: red;
+  color: black;
+  size : 10px;
 }
-button{
-  background-color : rgb(255, 255, 255);
-  color : blue;
+
+button {
+  background-color: rgb(255, 255, 255);
+  color: blue;
+}
+
+body {
+  background-color: white;
 }
